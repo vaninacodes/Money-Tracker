@@ -1,13 +1,14 @@
-#❤︎ Money Tracker ❤︎
+# ❤︎ Money Tracker ❤︎
+
 Un pequeño tracker de egresos simple y eficiente para llevar control de tus gastos diarios.
 
-##⤷ ゛Características ˎˊ˗ 
+## ⤷ ゛Características ˎˊ˗ 
 
 ❤︎ Registro rápido de gastos
 
 ❤︎ Rápido y ligero
 
-##⤷ ゛ Instalación ˎˊ˗
+## ⤷ ゛ Instalación ˎˊ˗
 
 ❤︎ Clona el repositorio
 
@@ -15,7 +16,7 @@ Un pequeño tracker de egresos simple y eficiente para llevar control de tus gas
 
 ❤︎ Abre index.html en tu navegador
 
-##⤷ ゛ Uso ˎˊ˗ 
+## ⤷ ゛ Uso ˎˊ˗ 
 
 ❤︎Ingresa el concepto y monto del gasto
 
@@ -26,8 +27,8 @@ Un pequeño tracker de egresos simple y eficiente para llevar control de tus gas
 ❤︎Visualiza tus gastos en la lista
 
 
-##⤷ ゛ Tecnologías ˎˊ˗  
+## ⤷ ゛ Tecnologías ˎˊ˗  
 HTML5 • CSS3 • JavaScript
 
-##⤷ ゛ Captura de Pantalla ˎˊ˗   
-![Vista previa del proyecto](./traker.png)
+## ⤷ ゛ Captura de Pantalla ˎˊ˗   
+![Vista previa del proyecto](./tracker.png)
