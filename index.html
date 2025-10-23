@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>⋆.˚✮Money Tracker WebA pp✮˚.⋆</title>
+</head>
+<body>
+    <h1>₊⊹ Tracker ₊⊹</h1>
+    <div class="input-section">
+        <label for="category-select">Categoria:</label>
+        <select id="category-select">
+            <option value="Comida">Comida</option>
+            <option value="Casa">Casa</option>
+            <option value="Transporte">Transporte</option>
+            <option value="Salida">Salida</option>
+            <option value="Compras">Compras</option>
+            <option value="Otros">Otros</option>
+        </select>
+        <label for="amount-input">Cant:</label>
+        <input type="number" id="amount-input">
+        <label for="date-input">Fecha:</label>
+        <input type="date" id="date-input">
+        <button id="add-btn">Agregar</button>
+    </div>
+    <div class="expenses-list">
+        <h2>˚₊‧꒰ა Lista de Gastos ໒꒱ ‧₊˚</h2>
+        <table>
+            <thead>
+                
+                    <tr>
+                        <th>Categoria</th>
+                        <th>Cantidad</th>
+                        <th>Fecha</th>
+                        <th>Borrar</th>
+                    </tr>
+                
+            </thead>
+            <tbody id="expense-table-body">
+
+            </tbody>
+            <tfoot>
+                <td>Total:</td>
+                <td id="total-amount"></td>
+                <td></td>
+                <td></td>
+            </tfoot>
+        </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
